@@ -1,5 +1,7 @@
 # Pythonic Summer 2023
 
+## Learning one concept a day
+
 In this project, my goal is to enhance my knowledge and skills in Python programming over the summer break of 2023. From the beginning of June until the end of July, I will dedicate each day to exploring a new programming concept. Specifically, I will focus on improving my proficiency in the following areas:
 
 1. Core Python
@@ -8,3 +10,7 @@ In this project, my goal is to enhance my knowledge and skills in Python program
 3. Object-oriented paradigm
 4. Test-driven development
 5. Concurrent and parallel computing
+
+## Learning log
+
+1. [Named tuples](./01-namedtuples.ipynb) are enhanced subclasses of `tuple`
