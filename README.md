@@ -13,4 +13,6 @@ In this project, my goal is to enhance my knowledge and skills in Python program
 
 ## Learning log
 
-1. [Named tuples](./01-namedtuples.ipynb) are enhanced subclasses of `tuple`
+1. [Named tuples are enhanced subclasses of tuple](./01-namedtuples.ipynb)
+2. [Functions as first-class objects](./02-functions-are-first-class-objects.ipynb)
+3. [Modern syntax for dictionaris](./03-modern-syntax-for-dictionaries.ipynb)
