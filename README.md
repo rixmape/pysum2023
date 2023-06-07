@@ -18,9 +18,10 @@ In this project, my goal is to enhance my knowledge and skills in Python program
 3. [Modern syntax for dictionaris](./03-modern-syntax-for-dictionaries.ipynb)
 4. [Mutable lists](./04-mutable-lists.ipynb)
 5. [Odd features of Python](./05-odd-features-of-pythonipynb)
-
+6. [Magic comments and docstrings](./06-magic-comments-and-docstrings.ipynb)
 
 ## References
 
 1. [Fluent Python, 2nd Edition](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 2. [Beyond the Basic Stuff with Python](https://www.oreilly.com/library/view/beyond-the-basic/9781098128203/)
+3. [Introducing Python, 2nd Edition](https://www.oreilly.com/library/view/introducing-python-2nd/9781492051374/)
