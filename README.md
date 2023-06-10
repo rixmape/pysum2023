@@ -19,6 +19,7 @@ In this project, my goal is to enhance my knowledge and skills in Python program
 4. [Mutable lists](./04-mutable-lists.ipynb)
 5. [Odd features of Python](./05-odd-features-of-pythonipynb)
 6. [Magic comments and docstrings](./06-magic-comments-and-docstrings.ipynb)
+7. [Code smells](./07-code-smells.ipynb)
 
 ## References
 
