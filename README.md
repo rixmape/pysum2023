@@ -20,6 +20,7 @@ In this project, my goal is to enhance my knowledge and skills in Python program
 5. [Odd features of Python](./05-odd-features-of-pythonipynb)
 6. [Magic comments and docstrings](./06-magic-comments-and-docstrings.ipynb)
 7. [Code smells](./07-code-smells.ipynb)
+8. [Type hints](./08-type-hints.ipynb)
 
 ## References
 
